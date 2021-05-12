@@ -2,13 +2,13 @@
 
 Implementation of various light weight cryptography algorithms in python.
 
-All code has been taken from following sources:
+Code has been taken from following sources:
 
 1. Present - Symmetric light-weight block cipher: https://asecuritysite.com/encryption/present
 2. Trivium - Light-weight stream cipher: https://asecuritysite.com/encryption/trivium
 3. SPONGENT - Light-weight hash function: https://asecuritysite.com/encryption/spongent2
 4. Chaskey - Light-weight MAC function: https://asecuritysite.com/encryption/chas2
-5. ELLI - Light-weight asymmetric cipher; https://asecuritysite.com/encryption/elli
+5. ELLI - Light-weight asymmetric cipher: https://asecuritysite.com/encryption/elli
 
 All code is based on python3 except for ELLI which is only working on python2 due to some dependency issues.
 
