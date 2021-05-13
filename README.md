@@ -30,6 +30,12 @@ eccsnacks - The version 1.0.2 fails to install in both python2 and python3. Howe
 Present on android:
 ![Present Android](/output/present_android.png)
 
+Present on raspberry pi:
+![Present raspberry pi](/output/present_rpi.png)
+
+Present on windows:
+![Present windows](/output/present_win.png)
+
 2. Trivium
 
 3. ELLI
