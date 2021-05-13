@@ -22,3 +22,15 @@ Padding - Can be installed with "pip3 install padding".
 ELLI:
 
 eccsnacks - The version 1.0.2 fails to install in both python2 and python3. However, version 1.0.1 works fine and the code runs successfully on python2. It can be installed with "pip install eccsnacks==1.0.1".
+
+# Output
+
+1. Present
+![Present Android](/output/present_android.png)
+2. Trivium
+
+3. ELLI
+
+4. SPONGENT
+
+5. Chaskey
