@@ -97,3 +97,25 @@ Chaskey on raspberry pi:
 
 Chaskey on windows:
 ![Chaskey windows](/output/chaskey_win.png)
+
+# Performance Comparison
+
+**1. PRESENT**
+
+![Present Performance](/output/performance/1.present.png)
+
+**2. Trivium**
+
+![Trivium Performance](/output/performance/2.trivium.png)
+
+**3. ELLI**
+
+![ELLI Performance](/output/performance/3.elli.png)
+
+**4. SPONGENT**
+
+![SPONGENT Performance](/output/performance/4.spongent.png)
+
+**5. Chaskey**
+
+![Chaskey Performance](/output/performance/5.chaskey.png)
