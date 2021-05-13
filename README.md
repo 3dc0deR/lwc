@@ -26,6 +26,8 @@ eccsnacks - The version 1.0.2 fails to install in both python2 and python3. Howe
 # Output
 
 1. Present
+
+
 ![Present Android](/output/present_android.png)
 2. Trivium
 
