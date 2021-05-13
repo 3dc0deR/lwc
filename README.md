@@ -38,6 +38,8 @@ Present on raspberry pi:
 Present on windows:
 ![Present windows](/output/present_win.png)
 
+
+
 **2. Trivium**
 
 Trivium on android:
@@ -50,6 +52,8 @@ Trivium on raspberry pi:
 
 Trivium on windows:
 ![Trivium windows](/output/trivium_win.png)
+
+
 
 **3. ELLI**
 
@@ -64,6 +68,8 @@ ELLI on raspberry pi:
 ELLI on windows:
 ![ELLI windows](/output/elli_win.png)
 
+
+
 **4. SPONGENT**
 
 SPONGENT on android:
@@ -76,6 +82,8 @@ SPONGENT on raspberry pi:
 
 SPONGENT on windows:
 ![SPONGENT windows](/output/spongent_win.png)
+
+
 
 **5. Chaskey**
 
